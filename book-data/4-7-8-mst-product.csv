@@ -1,0 +1,11 @@
+id,name,price,category
+1,curry,980,1
+2,omurice,850,1
+3,hamburg_steak,1280,2
+4,beefsteak,1980,2
+5,chicken_saute,980,2
+6,tonkatsu,1180,2
+7,wine,450,3
+8,apple_juice,300,3
+9,cola,300,3
+10,beer,400,3
